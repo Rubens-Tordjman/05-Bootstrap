@@ -1,0 +1,132 @@
+/*GENERAL*/
+
+body
+{
+    font-family: 'Lato', Helvetica, Arial, sans-serif, sans-serif;
+    color: #212529;
+}
+
+h1
+{
+    font-size: 2.5rem;
+    color: white;
+}
+
+h3
+{
+    font-size: 1.5rem;
+}
+
+.fas, .fab, .icon-screen-desktop, .icon-layers, .icon-check
+{
+    color: #0069d9;
+}
+
+form
+{
+    justify-content: center;
+}
+
+/*HEADER*/
+
+
+
+/*MAIN*/
+
+.buildPage
+{
+    background-image: url(../m05-bootstrap/img/bg-masthead.jpg);
+    background-size: cover;
+    padding: 195px 0;
+    text-align: center;
+    background-position: center;
+}
+
+.conception .background
+{
+    background-image: url(../m05-bootstrap/img/bg-showcase-1.jpg);
+    background-size: cover;
+    min-height: 455px;
+}
+
+.conception article p
+{
+    font-size: 1.25rem;
+}
+
+.conception article
+{
+    align-self: center;
+    padding: 90px;
+}
+
+.bgw
+{
+    background-color: white;
+}
+
+.options
+{
+    padding: 100px 0;
+    text-align: center;
+}
+
+.options h2
+{
+    margin-bottom: 26px;
+}
+
+.options article div
+{
+    font-size: 5rem;
+}
+
+.temoignage
+{
+    padding: 125px;
+}
+
+.temoignage h2
+{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.temoignage img
+{
+    width: 100%;
+}
+
+/*FOOTER*/
+
+.subscribe
+{
+    background-image: url(../m05-bootstrap/img/bg-masthead.jpg);
+    background-size: cover;
+    padding: 100px 0;
+    text-align: center;
+    background-position: center;
+}
+
+
+
+
+
+
+/*MEDIA QUERIES*/
+
+@media screen and (min-width: ) {
+ 
+}
+
+@media screen and (min-width: ) {
+ 
+}
+
+@media screen and (min-width: ) {
+ 
+}
+
+@media screen and (min-width: ) {
+ 
+}
